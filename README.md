@@ -5,7 +5,7 @@ Project Report, CloudExify Python Internship, Month 1, Project 1
 | | |
 |---|---|
 | **Name** | Fatima Asghar |
-| **Registration No.** | CX-2026-____ |
+| **Registration No.** | CX-INT-2026-PY-0063|
 | **Program** | CloudExify Summer Internship 2026 |
 | **Module** | Python Programming, Month 1 |
 | **Project** | Project 1: Personal Expense Tracker |
@@ -61,7 +61,6 @@ expense_tracker/
 ├── expense_tracker.py
 ├── expenses.txt
 ├── README.md
-├── Expense_Tracker_Report.docx
 └── screenshots/
     ├── main_menu.png
     └── expense_list.png
